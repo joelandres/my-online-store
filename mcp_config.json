@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "my-store-db": {
+      "command": "python",
+      "args": ["/Users/joelandres/apps/my_online_store/store_mcp.py"]
+    }
+  }
+}
